@@ -36,5 +36,5 @@ As the data industry continues to grow rapidly, it can be difficult for aspiring
 ---
 
 ## How to Interact with this Project
-2. **Local Version:** Download the `.pbix` file located inside the `reports/` folder and open it via **Power BI Desktop**.
+2. **Local Version:** Download the `.pbix` and open it via **Power BI Desktop**.
 
