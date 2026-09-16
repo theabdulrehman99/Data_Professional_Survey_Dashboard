@@ -9,12 +9,12 @@ An interactive data visualization project designed to analyze the global landsca
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 <img width="1442" height="804" alt="dashboard_preview" src="https://github.com/user-attachments/assets/4e78008e-c617-4b43-a1fb-54b40e3f741c" />
 
 ---
 
-## 🎯 Project Overview & Business Value
+## Project Overview & Business Value
 
 As the data industry continues to grow rapidly, it can be difficult for aspiring professionals to navigate career paths, salary expectations, and skill requirements. The goal of this dashboard is to demystify the industry by providing actionable, data-driven insights into the real-world experiences of data professionals globally.
 
@@ -26,7 +26,7 @@ As the data industry continues to grow rapidly, it can be difficult for aspiring
 
 ---
 
-## 🛠️ Tech Stack & Skills Demonstrated
+## Tech Stack & Skills Demonstrated
 
 * **Business Intelligence Tool:** Microsoft Power BI Desktop
 * **Data Transformation:** Power Query (ETL process, data cleansing, handling missing values, text parsing)
@@ -35,6 +35,6 @@ As the data industry continues to grow rapidly, it can be difficult for aspiring
 
 ---
 
-## 🚀 How to Interact with this Project
+## How to Interact with this Project
 2. **Local Version:** Download the `.pbix` file located inside the `reports/` folder and open it via **Power BI Desktop**.
 
